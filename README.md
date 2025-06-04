@@ -28,7 +28,6 @@ Este proyecto explora diferentes distribuciones estadísticas aplicadas a conjun
 
 ## 📁 Archivos incluidos
 - `Distribuciones.ipynb`: Notebook con todo el análisis y visualizaciones.
-- `datos_distribuciones.csv` (si existe algún archivo de datos que uses).
 
 ## 🚀 Autor
 **Iván García Raso**  
